@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\OOPexercise.exe
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\OOPexercise.deps.json
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\OOPexercise.runtimeconfig.json
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\OOPexercise.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\OOPexercise.dll
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\ref\OOPexercise.dll
+C:\Users\Usuario\Desktop\OOPExercise\bin\Debug\net5.0\OOPexercise.pdb
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.dll
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\ref\OOPexercise.dll
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.pdb
+C:\Users\Usuario\Desktop\OOPExercise\obj\Debug\net5.0\OOPexercise.genruntimeconfig.cache
